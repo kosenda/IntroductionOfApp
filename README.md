@@ -2,7 +2,7 @@
 
 ## < 概要 ( Overview ) >
 
-### シンプルすぎたToDoリスト
+### １． シンプルすぎたToDoリスト
 リリース日： 2021/05/16  
 ユーザー獲得数： 4（2022/09/19時点）  
 評価： なし  
@@ -10,7 +10,7 @@
 [Google Play リンク](https://play.google.com/store/apps/details?id=kosenda.simple_todo_list)  
 ***
 
-### マルチカラーピッカー ( Multi-Color Picker )
+### ２．マルチカラーピッカー ( Multi-Color Picker )
 リリース日： 2021/07/16  
 ユーザー獲得数： 111（2022/09/19時点）  
 評価： なし  
@@ -18,7 +18,7 @@
 [Google Play リンク](https://play.google.com/store/apps/details?id=kosenda.makecolor)  
 ***
 
-### 手軽に複利計算 ( Easy Compound Interest Calc )
+### ３．手軽に複利計算 ( Easy Compound Interest Calc )
 リリース日： 2021/12/15  
 ユーザー獲得数： 1,118（2022/09/19時点）  
 評価： 4.737 ★  
@@ -26,7 +26,7 @@
 [Google Play リンク](https://play.google.com/store/apps/details?id=ksnd.simplecompoundinterestcalculation)  
 ***
 
-### 気軽に助数詞
+### ４．気軽に助数詞
 リリース日： 2022/02/25  
 ユーザー獲得数： 2（2022/09/19時点）  
 評価： なし  
@@ -34,7 +34,7 @@
 [Google Play リンク](https://play.google.com/store/apps/details?id=ksnd.countersuffixes)  
 ***
 
-### ご褒美メモ ( Reward Memo )
+### ５． ご褒美メモ ( Reward Memo )
 リリース日： 2022/05/28  
 ユーザー獲得数： 16（2022/09/19時点）  
 評価： なし  
@@ -42,7 +42,7 @@
 [Google Play リンク](https://play.google.com/store/apps/details?id=ksnd.rewardmemo)  
 ***
 
-### 金利変換機 ( Interest Rate Conversion )
+### ６. 金利変換機 ( Interest Rate Conversion )
 リリース日： 2021/07/09  
 ユーザー獲得数： 17（2022/09/19時点）  
 評価： なし  
@@ -50,7 +50,7 @@
 [Google Play リンク](https://play.google.com/store/apps/details?id=ksnd.interestrateconversion)  
 ***
 
-### ひらがな変換 ( Hiragana Converter )
+### ７. ひらがな変換 ( Hiragana Converter )
 リリース日： 2022/07/23  
 ユーザー獲得数： 55（2022/09/19時点）  
 評価： なし  
@@ -58,7 +58,7 @@ gooラボ様のひらがな化APIを使用した、日本語文字列をひら�
 [Google Play リンク](https://play.google.com/store/apps/details?id=ksnd.hiraganaconverter)  
 ***
 
-### シンプル防災グッズ ( Simple Emergency Kits )
+### ８. シンプル防災グッズ ( Simple Emergency Kits )
 リリース日： 202*/**/**  
 ユーザー獲得数： 0（2022/09/19時点）  
 評価： なし  
