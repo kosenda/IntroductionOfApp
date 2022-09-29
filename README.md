@@ -15,9 +15,9 @@
 リリース日： 2021/07/16  
 ユーザー獲得数： 111（2022/09/19時点）  
 評価： なし  
-色を様々な方法で作成できて管理できる。ViewBinding -> Jetpack Compose -> Material3 と継続的にアップデート。 
+色を様々な方法で作成できて管理できる。ViewBinding -> Jetpack Compose -> Material3 と継続的にアップデート。  
 [Google Play リンク](https://play.google.com/store/apps/details?id=kosenda.makecolor)  
-![GIF](https://github.com/kosenda/IntroductionOfApp/blob/main/image/app_02/app_02.gif)   
+![GIF](https://github.com/kosenda/IntroductionOfApp/blob/main/image/app_02/app_02.gif)  
 ***
 
 ### ３．手軽に複利計算 ( Easy Compound Interest Calc )
