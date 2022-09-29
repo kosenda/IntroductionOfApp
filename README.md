@@ -1,4 +1,4 @@
-# アプリの紹介 ( IntroductionOfApp )
+# アプリの紹介 ( Introduction of app )
 
 ## < 概要 ( Overview ) >
 
